@@ -1,3 +1,6 @@
 [submodule "sites/all/modules/pet"]
 	path = sites/all/modules/pet
 	url = https://github.com/BabaYaga64/PetModuleDrupal.git
+[submodule "sites/all/modules/favorites"]
+	path = sites/all/modules/favorites
+	url = https://github.com/BabaYaga64/FavoritesModuleDrupal.git
