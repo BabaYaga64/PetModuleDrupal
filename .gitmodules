@@ -4,3 +4,6 @@
 [submodule "sites/all/modules/favorites"]
 	path = sites/all/modules/favorites
 	url = https://github.com/BabaYaga64/FavoritesModuleDrupal.git
+[submodule "favorites"]
+	path = sites/all/modules/favorites
+	url = https://github.com/BabaYaga64/FavoritesModuleDrupal.git
