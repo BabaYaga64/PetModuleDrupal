@@ -14,5 +14,5 @@ function pet_menu() {
 function about_colonel_meow() {
     return '<h1>Colonel Meow</h1>
             <img src="http://img.izismile.com/img/img5/20120924/640/colonel_meow_might_be_the_angriest_cat_on_earth_640_21.jpg"></img>
-            <p>I am grumpy.</p>';
+            <p>I am grumpy yo!.</p>';
 }
